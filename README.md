@@ -12,6 +12,7 @@ prerequisites: must have fishing pole, hunting rifle and shovel
 updated python version
 prerequisites: pyautogui installed and python installed
 double click to run
+move mouse to corner to stop
 
 
 dank memer sucks ass 
