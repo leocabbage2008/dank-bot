@@ -6,6 +6,8 @@ import datetime
 
 runTime=0
 
+pyautogui.failSafe=True
+
 #type and enter
 def write(ni):
     pyautogui.typewrite(ni)
