@@ -1,5 +1,3 @@
-#Put some shitty license here about not selling my shit
-
 import pyautogui
 import time
 import random
