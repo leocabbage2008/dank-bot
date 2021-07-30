@@ -9,6 +9,11 @@ prerequisites: must have fishing pole, hunting rifle and shovel
 <li>Press ctrl+q to stop, or if that doesn't work, do ctrl+alt+del and select task manager, press A, find autohotkey and then select.</li>
 </ol>
 
+updated python version
+prerequisites: pyautogui installed and python installed
+double click to run
+
+
 dank memer sucks ass 
 
 will be working on more random python version soon to avoide detection, but for now, don't use this for long periods of time
